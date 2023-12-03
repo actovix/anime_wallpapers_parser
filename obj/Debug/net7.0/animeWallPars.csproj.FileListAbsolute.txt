@@ -1,0 +1,15 @@
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/animeWallPars
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/animeWallPars.deps.json
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/animeWallPars.runtimeconfig.json
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/animeWallPars.dll
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/animeWallPars.pdb
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/animeWallPars.csproj.AssemblyReference.cache
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/animeWallPars.GeneratedMSBuildEditorConfig.editorconfig
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/animeWallPars.AssemblyInfoInputs.cache
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/animeWallPars.AssemblyInfo.cs
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/animeWallPars.csproj.CoreCompileInputs.cache
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/animeWallPars.dll
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/refint/animeWallPars.dll
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/animeWallPars.pdb
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/animeWallPars.genruntimeconfig.cache
+/home/matthew/Документы/source/animeWallPars/obj/Debug/net7.0/ref/animeWallPars.dll

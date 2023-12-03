@@ -1,0 +1,5 @@
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/publish/animeWallPars
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/publish/animeWallPars.dll
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/publish/animeWallPars.deps.json
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/publish/animeWallPars.runtimeconfig.json
+/home/matthew/Документы/source/animeWallPars/bin/Debug/net7.0/publish/animeWallPars.pdb
